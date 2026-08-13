@@ -1,0 +1,8 @@
+[submodule "MCDevTool"]
+	path = MCDevTool
+	url = https://github.com/PeanutSplash/MCDevTool.git
+	branch = main
+[submodule "mcdev-tools"]
+	path = mcdev-tools
+	url = https://github.com/PeanutSplash/mcdev-tools.git
+	branch = main
